@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "可惜夜",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-14T14:51:39.963194Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "可惜夜",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_可惜夜_tayori.txt"
+    }
+  ]
+}
